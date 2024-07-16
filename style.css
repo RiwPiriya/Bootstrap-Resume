@@ -1,0 +1,96 @@
+.background {
+	background-color: #C40C0C;
+}
+
+.title-nickname{
+	font-family: "Bona Nova SC", serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+	color: #FFD31D;
+}
+.title-name{
+	font-family: "Cardo", serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 40px;
+	color: white;
+}
+.profile-name{
+	color: #C40C0C;
+}
+.picture-me{
+	border-radius: 5%;
+}
+.summary{
+	font-family: "Sawarabi Mincho", serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 50px;
+	color: #C40C0C;
+}
+.summary-sub{
+	font-family: "Cardo", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+}
+.education-title{
+	font-family: "Sawarabi Mincho", serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 50px;
+	color: #FFD31D;
+}
+.ku-logo{
+	border-radius: 5%;
+}
+.education-ku{
+	font-family: "Cardo", serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 30px;
+	color: white;
+}
+.education-sub{
+	font-family: "Cardo", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	color: white;
+}
+.experience-title{
+	font-family: "Sawarabi Mincho", serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 50px;
+	color: #C40C0C;
+}
+.experience-ku{
+	font-family: "Cardo", serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 30px;
+}
+.experience-sub{
+	font-family: "Cardo", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+}
+.skills-title{
+	font-family: "Sawarabi Mincho", serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 50px;
+	color: #FFD31D;
+}
+.skills-sub{
+	font-family: "Cardo", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+}
+.footer{
+	font-family: "Cardo", serif;
+}
